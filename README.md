@@ -2,7 +2,7 @@
 ___
 ## requirements
 1. WSL2 | Linux distro bebas
-2. Bash shell
+2. Bashshell
 3. Python versi terbaru
 
 ## installasi
@@ -13,3 +13,6 @@ ___
 5. Edit script *main.py* sesuai kebutuhan
 6. Ketik `sudo chmod +x run`
 7. Ketik `./run`
+
+### info
+Kecepatan convert bergantung pada VGA yang digunakan, bisa cepat & bisa sangat lama.
