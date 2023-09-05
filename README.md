@@ -1,11 +1,10 @@
 # MP4 to ASCII
 ___
 ## requirements
----
 1. WSL2 | Linux distro bebas
 2. Bash shell
 3. Python versi terbaru
----
+
 ## installasi
 1. Buka terminal kesayangan
 2. Ketik `mkdir ~/html_jj`
