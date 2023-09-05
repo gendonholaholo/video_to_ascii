@@ -1,5 +1,4 @@
 # MP4 to ASCII
-___
 ## requirements
 1. WSL2 | Linux distro bebas
 2. Bashshell
