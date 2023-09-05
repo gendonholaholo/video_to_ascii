@@ -7,7 +7,7 @@ os.mkdir("images")
 os.mkdir("ascii")
 os.mkdir("html")
 
-vidObj = cv2.VideoCapture("./Papa_digoyang.mp4")
+vidObj = cv2.VideoCapture("./P MENDEM.mp4")
 count = 0
 flag = 1
 
