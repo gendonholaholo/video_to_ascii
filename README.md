@@ -14,5 +14,6 @@ ___
 6. Ketik `sudo chmod +x run`
 7. Ketik `./run`
 
+---
 ### info
 Kecepatan convert bergantung pada VGA yang digunakan, bisa cepat & bisa sangat lama.
