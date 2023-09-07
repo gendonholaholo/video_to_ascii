@@ -1,10 +1,10 @@
 # MP4 to ASCII
-## requirements
+### requirements
 1. WSL2 | Linux distro bebas
 2. Bash-shell
 3. Python versi terbaru
 
-## installasi
+### installasi
 1. Buka terminal kesayangan
 2. Ketik `mkdir ~/html_jj`
 3. Ketik `git clone https://github.com/gendonholaholo/video_to_ascii.git ~/html_jj && cd ~/html_jj/video_to_ascii/`
