@@ -1,7 +1,7 @@
 # MP4 to ASCII
 ## requirements
 1. WSL2 | Linux distro bebas
-2. Bashshell
+2. Bash-shell
 3. Python versi terbaru
 
 ## installasi
