@@ -15,7 +15,7 @@ while flag:
     flag, image = vidObj.read()
     try:
         cv2.imwrite("images/frame%d.jpg" % count, image)
-    except:
+    except Exception:
         break
     count += 1
 
